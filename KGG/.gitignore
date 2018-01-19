@@ -1,0 +1,10 @@
+*/.idea
+*.jar
+bin
+obj
+.vs
+old
+*.png
+*old*
+*DotSet*
+*userp*

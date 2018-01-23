@@ -1,0 +1,1 @@
+FOR /L i IN (0,1,5) DO java Client
